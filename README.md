@@ -20,6 +20,13 @@ pip install bs4
 
 pip install requests
 ```
+OR 
+
+Quickly resolve dependencies using:
+
+```
+pip install -r requirements.txt
+```
 
 ### Usage
 
