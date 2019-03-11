@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 ### Screenshots
 
-###### *📌 Output
+###### Output
 
 ![OutputFile](https://raw.githubusercontent.com/gauthamp10/Google_Play_App_Info/master/Screenie/output.png)
 
