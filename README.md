@@ -8,7 +8,7 @@ A simple api to fetch Playstore App information.With this python script you will
   
 ### Dependencies
 
-Install the following three python modules before executing wGoogle_Play_App_Info
+Install the following three python modules before executing Google_Play_App_Info
 - re
 - beautifulsoup4
 - requests
@@ -29,6 +29,9 @@ pip install -r requirements.txt
 ```
 
 ### Usage
+> pip3 install gappinfo   
+
+OR
 
 > python main.py
 
