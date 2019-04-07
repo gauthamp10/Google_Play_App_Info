@@ -8,7 +8,7 @@ A simple api to fetch Playstore App information.With this python script you will
   
 ### Dependencies
 
-Install the following three python modules before executing wikipedia_info_scraper
+Install the following three python modules before executing wGoogle_Play_App_Info
 - re
 - beautifulsoup4
 - requests
