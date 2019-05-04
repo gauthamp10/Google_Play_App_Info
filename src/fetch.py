@@ -28,7 +28,7 @@ def main():
 	def get_app_link(query):
 		html_page = requests.get("https://play.google.com/store/search?q="+query+"&c=apps")
 		soup = BeautifulSoup(html_page.text,'html.parser')
-		applink=soup.find('a',attrs={'class':'card-click-target'})
+		applink=soup.find('a',attrs={'class':'poRVub'})
 		return applink['href']
 
 	def get_info(url,soup):
