@@ -79,8 +79,8 @@ def main():
 		data=requests.get(url)
 		soup = BeautifulSoup(data.text,'html.parser')
 		get_info(url,soup)
-	except:
-		print("Network Error| Unknown App!...")
+	except Exception as e:
+		print("Error occured!-", str(e))
 	print_lines()
 
 if __name__ == '__main__':                                       #Calling main(), the actual entry point for the scraper
