@@ -1,5 +1,5 @@
 # Google_Play_App_Info
-A simple api to fetch Playstore App information.With this python script you will be able to get an app information in a jiffy.
+A simple tool to fetch Playstore App information.With this python script you will be able to get an app information in a jiffy.
 
 ### Prerequisites
 
