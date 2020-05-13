@@ -50,13 +50,6 @@ OR
  **Gautham Prakash**
  
  My other projects:[github.com/gauthamp10](https://gauthamp10.github.io/)
- 
-### Contributors
-
- *  [Ajo Vadakkan](https://www.facebook.com/ajoy.pappa) 
- *  [Jithin Koshy](https://github.com/JithinKoshy)
- 
- Thanks to all contributors who helped me with my project
 
 ### License
 
